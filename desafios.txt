@@ -1,0 +1,5 @@
+Responsividade
+tema dark
+PWA
+Outros bancos de dado (supabase, firestore..)
+Styled Components
